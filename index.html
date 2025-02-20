@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find Your Perfect Match</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <div class="header-content">
+            <h1>FIND YOUR SATHI</h1>
+            <p>Find your perfect match with our tailored profiles</p>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        <section class="form-container">
+            <h2>Personal Information</h2>
+            <form id="userForm" method="POST">
+                <!-- User ID -->
+                <div class="form-group">
+                    <label for="user-id">User ID:</label>
+                    <input type="text" id="user-id" name="user-id" placeholder="Enter your unique ID" required>
+                </div>
+
+                <!-- Age -->
+                <div class="form-group">
+                    <label for="age">Age:</label>
+                    <input type="number" id="age" name="age" min="18" max="100" required>
+                </div>
+
+                <!-- Gender -->
+                <div class="form-group">
+                    <label for="gender">Gender:</label>
+                    <select id="gender" name="gender" required>
+                        <option value="" disabled selected>Select your gender</option>
+                        <option value="male">Male</option>
+                        <option value="female">Female</option>
+                    </select>
+                </div>
+
+                <!-- Height -->
+                <div class="form-group">
+                    <label for="height">Height (in cm):</label>
+                    <input type="number" id="height" name="height" min="50" max="250" required>
+                </div>
+
+                <!-- Looking For -->
+                <div class="form-group">
+                    <label for="looking-for">Looking For:</label>
+                    <select id="looking-for" name="looking-for" required>
+                        <option value="" disabled selected>Select</option>
+                        <option value="friendship">Friendship</option>
+                        <option value="relationship">Relationship</option>
+                    </select>
+                </div>
+
+                <!-- Education -->
+                <fieldset>
+                    <legend>Education:</legend>
+                    <label><input type="radio" name="education" value="highschool"> High School</label>
+                    <label><input type="radio" name="education" value="bachelor" required> Bachelor's Degree</label>
+                    <label><input type="radio" name="education" value="master"> Master's Degree</label>
+                    <label><input type="radio" name="education" value="phd"> Ph.D.</label>
+                </fieldset>
+
+                <!-- Occupation -->
+                <fieldset>
+                    <legend>Occupation:</legend>
+                    <label><input type="radio" name="occupation" value="artist" required> Artist</label>
+                    <label><input type="radio" name="occupation" value="business-owner"> Business Owner</label>
+                    <label><input type="radio" name="occupation" value="doctor"> Doctor</label>
+                    <label><input type="radio" name="occupation" value="engineer"> Engineer/Student</label>
+                    <label><input type="radio" name="occupation" value="entrepreneur"> Entrepreneur</label>
+                    <label><input type="radio" name="occupation" value="influencer"> Social Media Influencer</label>
+                    <label><input type="radio" name="occupation" value="teacher"> Teacher</label>
+                </fieldset>
+
+                <!-- Activity Frequency -->
+                <fieldset>
+                    <legend>Activity Frequency:</legend>
+                    <label><input type="radio" name="frequency" value="daily" required> Daily</label>
+                    <label><input type="radio" name="frequency" value="weekly"> Weekly</label>
+                    <label><input type="radio" name="frequency" value="monthly"> Monthly</label>
+                </fieldset>
+
+                <!-- Submit Button -->
+                <button type="button" id="resultButton">Find Your Match</button>
+
+                <script>
+                    document.getElementById('resultButton').addEventListener('click', function() {
+                        window.location.href = 'results.html';
+                    });
+                </script>
+            </form>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 SEARCH_SATHI Inc. | All rights reserved.</p>
+        <p>Contact us: support@searchsathi.com</p>
+    </footer>
+
+    <!-- Scripts -->
+    <script>
+        document.getElementById('resultButton').addEventListener('click', function () {
+            const script = document.createElement('script');
+            script.src = 'script.js';
+            document.body.appendChild(script);
+        });
+    </script>    
+</body>
+</html>
+
+
+

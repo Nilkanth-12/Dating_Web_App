@@ -1,0 +1,501 @@
+User ID,Age,Gender,Height,Looking For,Children,Education Level,Occupation,Frequency of Usage
+1,30,Male,5.2,Casual Dating,No,High School,Engineer/Student,Weekly
+2,27,Female,4.9,Casual Dating,Yes,Master's Degree,Artist,Monthly
+3,29,Female,5.8,Casual Dating,No,Bachelor's Degree,Social Media Influencer,Daily
+4,29,Female,5.1,Marriage,No,Ph.D.,Doctor,Daily
+5,32,Male,6.0,Marriage,Yes,Ph.D.,Engineer/Student,Monthly
+6,25,Female,5.2,Marriage,Yes,Master's Degree,Engineer/Student,Monthly
+7,27,Female,5.7,Marriage,No,Master's Degree,Engineer/Student,Monthly
+8,21,Male,5.1,Marriage,Yes,Bachelor's Degree,Teacher,Daily
+9,33,Female,5.4,Casual Dating,Maybe,High School,Social Media Influencer,Monthly
+10,26,Female,6.0,Marriage,No,Ph.D.,Teacher,Weekly
+11,27,Female,4.9,Casual Dating,Maybe,Master's Degree,Teacher,Weekly
+12,20,Female,5.8,Casual Dating,Yes,Ph.D.,Business Owner,Monthly
+13,33,Female,5.6,Casual Dating,Yes,Bachelor's Degree,Teacher,Weekly
+14,25,Female,5.4,Casual Dating,Yes,High School,Entrepreneur,Monthly
+15,20,Male,5.5,Casual Dating,No,Bachelor's Degree,Engineer/Student,Monthly
+16,30,Female,5.9,Marriage,Maybe,Bachelor's Degree,Artist,Monthly
+17,27,Male,6.0,Casual Dating,Yes,Bachelor's Degree,Engineer/Student,Weekly
+18,29,Male,5.6,Marriage,No,Master's Degree,Doctor,Daily
+19,31,Male,5.2,Marriage,Yes,Master's Degree,Business Owner,Daily
+20,24,Female,5.2,Casual Dating,Yes,Ph.D.,Entrepreneur,Daily
+21,31,Male,5.3,Casual Dating,Maybe,Bachelor's Degree,Engineer/Student,Weekly
+22,27,Female,5.4,Casual Dating,Maybe,Master's Degree,Doctor,Weekly
+23,22,Male,5.4,Casual Dating,No,Bachelor's Degree,Artist,Daily
+24,31,Female,5.3,Casual Dating,Yes,Bachelor's Degree,Social Media Influencer,Daily
+25,24,Female,6.0,Casual Dating,No,Master's Degree,Entrepreneur,Monthly
+26,29,Female,5.6,Casual Dating,Maybe,High School,Business Owner,Monthly
+27,32,Male,5.4,Casual Dating,Maybe,Master's Degree,Engineer/Student,Monthly
+28,20,Female,5.8,Marriage,Maybe,High School,Doctor,Daily
+29,19,Female,5.7,Marriage,Yes,Ph.D.,Artist,Weekly
+30,32,Male,6.1,Casual Dating,Yes,Bachelor's Degree,Entrepreneur,Monthly
+31,18,Female,5.3,Marriage,Maybe,Ph.D.,Artist,Weekly
+32,30,Male,4.9,Casual Dating,Yes,Ph.D.,Engineer/Student,Weekly
+33,20,Female,5.7,Casual Dating,No,Master's Degree,Teacher,Monthly
+34,21,Male,5.1,Casual Dating,Yes,Ph.D.,Entrepreneur,Weekly
+35,25,Male,5.7,Marriage,No,Ph.D.,Engineer/Student,Weekly
+36,19,Male,5.4,Casual Dating,No,Ph.D.,Business Owner,Daily
+37,24,Male,4.9,Casual Dating,Yes,Master's Degree,Teacher,Monthly
+38,26,Female,6.0,Marriage,No,Bachelor's Degree,Entrepreneur,Weekly
+39,24,Female,5.7,Casual Dating,Yes,Ph.D.,Entrepreneur,Weekly
+40,19,Male,5.9,Casual Dating,Maybe,High School,Social Media Influencer,Daily
+41,24,Female,5.2,Casual Dating,Yes,Bachelor's Degree,Social Media Influencer,Monthly
+42,35,Male,5.9,Marriage,Yes,Bachelor's Degree,Artist,Monthly
+43,31,Female,5.2,Casual Dating,Yes,High School,Artist,Weekly
+44,34,Male,6.0,Marriage,No,Master's Degree,Doctor,Daily
+45,23,Male,6.0,Casual Dating,Yes,High School,Engineer/Student,Weekly
+46,20,Female,5.6,Marriage,No,Bachelor's Degree,Teacher,Daily
+47,33,Female,5.3,Marriage,Maybe,High School,Engineer/Student,Daily
+48,30,Male,5.3,Casual Dating,No,High School,Artist,Weekly
+49,30,Male,5.4,Casual Dating,No,High School,Engineer/Student,Daily
+50,26,Female,6.0,Marriage,Yes,Bachelor's Degree,Doctor,Weekly
+51,33,Male,5.4,Marriage,Yes,Bachelor's Degree,Entrepreneur,Monthly
+52,35,Male,5.6,Marriage,No,High School,Doctor,Monthly
+53,18,Male,6.1,Casual Dating,Maybe,Ph.D.,Teacher,Monthly
+54,27,Male,5.6,Marriage,No,Master's Degree,Engineer/Student,Monthly
+55,28,Female,4.9,Marriage,Yes,High School,Artist,Daily
+56,18,Female,5.2,Casual Dating,Maybe,Master's Degree,Doctor,Daily
+57,28,Female,5.3,Casual Dating,No,High School,Entrepreneur,Daily
+58,33,Female,5.7,Casual Dating,Yes,Ph.D.,Doctor,Daily
+59,34,Female,5.3,Casual Dating,Yes,Ph.D.,Artist,Monthly
+60,35,Male,6.0,Marriage,Maybe,High School,Entrepreneur,Monthly
+61,34,Male,5.5,Casual Dating,Maybe,Master's Degree,Business Owner,Weekly
+62,30,Female,5.1,Casual Dating,Maybe,High School,Doctor,Daily
+63,21,Male,4.8,Marriage,No,Ph.D.,Engineer/Student,Weekly
+64,25,Female,5.5,Casual Dating,No,Ph.D.,Business Owner,Monthly
+65,29,Female,5.5,Marriage,Maybe,Ph.D.,Entrepreneur,Monthly
+66,32,Female,6.1,Marriage,Maybe,Bachelor's Degree,Doctor,Daily
+67,33,Male,5.8,Marriage,Yes,Bachelor's Degree,Engineer/Student,Daily
+68,34,Female,5.9,Marriage,No,Master's Degree,Doctor,Weekly
+69,31,Female,5.7,Casual Dating,Maybe,Bachelor's Degree,Engineer/Student,Monthly
+70,22,Female,5.0,Marriage,No,High School,Entrepreneur,Daily
+71,30,Male,6.0,Casual Dating,Yes,Ph.D.,Entrepreneur,Weekly
+72,27,Male,5.0,Casual Dating,Maybe,Master's Degree,Business Owner,Weekly
+73,25,Female,6.0,Marriage,Maybe,Bachelor's Degree,Business Owner,Weekly
+74,31,Male,4.9,Casual Dating,No,Master's Degree,Engineer/Student,Daily
+75,28,Male,6.0,Marriage,No,Bachelor's Degree,Entrepreneur,Daily
+76,32,Female,4.8,Casual Dating,Maybe,Master's Degree,Business Owner,Weekly
+77,35,Male,5.6,Marriage,Yes,High School,Doctor,Weekly
+78,25,Female,5.3,Casual Dating,Maybe,Ph.D.,Doctor,Daily
+79,23,Male,5.3,Marriage,Maybe,Master's Degree,Engineer/Student,Daily
+80,31,Male,5.6,Marriage,Maybe,Bachelor's Degree,Entrepreneur,Monthly
+81,20,Female,5.3,Casual Dating,Yes,Ph.D.,Teacher,Weekly
+82,34,Male,5.2,Marriage,Yes,Master's Degree,Entrepreneur,Monthly
+83,23,Male,5.8,Marriage,No,Ph.D.,Entrepreneur,Weekly
+84,18,Female,5.1,Marriage,No,Bachelor's Degree,Engineer/Student,Daily
+85,25,Female,5.3,Marriage,Yes,Bachelor's Degree,Engineer/Student,Monthly
+86,25,Male,5.9,Marriage,No,Bachelor's Degree,Business Owner,Monthly
+87,25,Male,5.3,Casual Dating,Maybe,Ph.D.,Teacher,Weekly
+88,24,Male,5.4,Casual Dating,Yes,Master's Degree,Artist,Daily
+89,23,Male,5.1,Marriage,Yes,High School,Engineer/Student,Weekly
+90,25,Female,5.4,Marriage,No,Ph.D.,Engineer/Student,Weekly
+91,24,Female,6.0,Casual Dating,Yes,High School,Engineer/Student,Weekly
+92,22,Male,5.1,Marriage,Maybe,Ph.D.,Engineer/Student,Weekly
+93,34,Female,5.1,Marriage,No,Bachelor's Degree,Engineer/Student,Daily
+94,24,Female,4.8,Casual Dating,Maybe,Ph.D.,Engineer/Student,Weekly
+95,31,Male,5.6,Marriage,Maybe,Bachelor's Degree,Engineer/Student,Daily
+96,32,Male,6.0,Marriage,Yes,High School,Social Media Influencer,Weekly
+97,29,Male,5.1,Casual Dating,No,Master's Degree,Artist,Daily
+98,21,Male,5.9,Marriage,Maybe,Ph.D.,Engineer/Student,Daily
+99,33,Female,5.8,Casual Dating,No,Bachelor's Degree,Entrepreneur,Monthly
+100,21,Female,5.7,Marriage,Yes,Ph.D.,Teacher,Weekly
+101,35,Male,5.1,Marriage,No,Master's Degree,Social Media Influencer,Monthly
+102,32,Male,4.9,Casual Dating,Maybe,Master's Degree,Entrepreneur,Daily
+103,21,Female,5.6,Casual Dating,No,High School,Artist,Monthly
+104,31,Male,6.0,Casual Dating,Yes,High School,Teacher,Daily
+105,27,Male,4.9,Casual Dating,No,Master's Degree,Business Owner,Daily
+106,22,Female,5.5,Marriage,No,Ph.D.,Social Media Influencer,Monthly
+107,29,Male,5.8,Casual Dating,Maybe,High School,Entrepreneur,Monthly
+108,24,Male,5.4,Casual Dating,Maybe,High School,Artist,Monthly
+109,19,Male,4.8,Marriage,No,High School,Engineer/Student,Daily
+110,22,Female,5.2,Casual Dating,Yes,Master's Degree,Engineer/Student,Weekly
+111,22,Female,5.5,Marriage,No,High School,Engineer/Student,Daily
+112,19,Female,5.4,Marriage,Maybe,Bachelor's Degree,Social Media Influencer,Monthly
+113,25,Male,5.9,Marriage,No,Ph.D.,Social Media Influencer,Daily
+114,30,Female,5.8,Casual Dating,No,Ph.D.,Doctor,Weekly
+115,25,Male,5.7,Marriage,Maybe,Ph.D.,Engineer/Student,Weekly
+116,28,Female,5.0,Marriage,Yes,Bachelor's Degree,Doctor,Daily
+117,23,Female,5.8,Casual Dating,No,Master's Degree,Social Media Influencer,Monthly
+118,22,Female,5.4,Marriage,Maybe,Master's Degree,Entrepreneur,Weekly
+119,32,Male,5.7,Marriage,Yes,Master's Degree,Social Media Influencer,Weekly
+120,24,Male,5.4,Marriage,Yes,High School,Doctor,Daily
+121,22,Female,5.3,Casual Dating,No,Bachelor's Degree,Entrepreneur,Daily
+122,26,Male,5.7,Marriage,No,Ph.D.,Engineer/Student,Monthly
+123,29,Male,5.0,Marriage,No,Bachelor's Degree,Social Media Influencer,Daily
+124,24,Male,5.6,Marriage,Maybe,Ph.D.,Engineer/Student,Daily
+125,26,Female,6.0,Marriage,No,Master's Degree,Social Media Influencer,Daily
+126,22,Female,5.8,Marriage,Maybe,High School,Teacher,Monthly
+127,30,Female,6.0,Marriage,Maybe,Bachelor's Degree,Business Owner,Weekly
+128,26,Female,4.9,Marriage,No,Ph.D.,Engineer/Student,Monthly
+129,32,Male,5.2,Marriage,No,Master's Degree,Engineer/Student,Weekly
+130,32,Male,5.0,Marriage,No,Ph.D.,Artist,Daily
+131,29,Male,5.8,Casual Dating,Maybe,Bachelor's Degree,Artist,Weekly
+132,25,Female,4.9,Casual Dating,Maybe,Ph.D.,Engineer/Student,Daily
+133,26,Male,5.0,Marriage,No,Ph.D.,Teacher,Monthly
+134,34,Female,4.8,Marriage,Maybe,Bachelor's Degree,Business Owner,Monthly
+135,35,Male,5.1,Casual Dating,Maybe,Master's Degree,Doctor,Monthly
+136,33,Female,4.8,Marriage,Yes,High School,Engineer/Student,Daily
+137,25,Female,5.6,Marriage,Maybe,Master's Degree,Doctor,Weekly
+138,22,Female,5.6,Marriage,Maybe,Master's Degree,Business Owner,Weekly
+139,28,Female,5.4,Casual Dating,No,Bachelor's Degree,Social Media Influencer,Weekly
+140,20,Male,5.0,Casual Dating,Maybe,Bachelor's Degree,Entrepreneur,Monthly
+141,32,Male,5.9,Marriage,Yes,Ph.D.,Engineer/Student,Daily
+142,27,Female,5.5,Marriage,Yes,Ph.D.,Artist,Daily
+143,33,Male,6.0,Casual Dating,Yes,Bachelor's Degree,Engineer/Student,Weekly
+144,32,Male,6.0,Marriage,No,Bachelor's Degree,Business Owner,Daily
+145,32,Female,5.7,Marriage,Yes,Master's Degree,Artist,Monthly
+146,24,Male,5.9,Marriage,Maybe,Master's Degree,Entrepreneur,Daily
+147,34,Male,5.9,Casual Dating,No,Bachelor's Degree,Business Owner,Daily
+148,21,Female,5.0,Casual Dating,No,Master's Degree,Social Media Influencer,Weekly
+149,25,Female,4.9,Marriage,Yes,High School,Doctor,Daily
+150,31,Female,5.5,Marriage,Yes,Ph.D.,Artist,Weekly
+151,19,Female,6.0,Casual Dating,Maybe,Master's Degree,Teacher,Weekly
+152,18,Male,5.0,Casual Dating,Maybe,Master's Degree,Engineer/Student,Weekly
+153,25,Male,6.0,Marriage,No,Bachelor's Degree,Artist,Monthly
+154,34,Male,5.4,Marriage,Maybe,Master's Degree,Social Media Influencer,Daily
+155,33,Female,5.2,Casual Dating,Maybe,High School,Artist,Weekly
+156,33,Female,4.8,Marriage,No,High School,Artist,Daily
+157,25,Male,6.0,Marriage,Yes,Bachelor's Degree,Engineer/Student,Daily
+158,21,Female,6.1,Marriage,Yes,High School,Business Owner,Monthly
+159,21,Male,6.0,Casual Dating,Yes,High School,Entrepreneur,Daily
+160,29,Female,6.1,Casual Dating,Yes,Bachelor's Degree,Doctor,Daily
+161,27,Male,5.7,Casual Dating,Yes,Master's Degree,Business Owner,Monthly
+162,32,Male,5.9,Marriage,Maybe,Master's Degree,Entrepreneur,Daily
+163,20,Female,5.5,Casual Dating,Maybe,High School,Doctor,Monthly
+164,27,Female,5.6,Casual Dating,Yes,Bachelor's Degree,Artist,Daily
+165,30,Male,5.9,Marriage,Yes,High School,Entrepreneur,Monthly
+166,23,Male,6.0,Marriage,Maybe,Ph.D.,Doctor,Weekly
+167,28,Female,6.0,Marriage,Yes,Master's Degree,Artist,Daily
+168,20,Female,5.2,Casual Dating,No,High School,Social Media Influencer,Daily
+169,18,Female,6.0,Marriage,Maybe,Ph.D.,Engineer/Student,Daily
+170,18,Female,5.0,Casual Dating,Yes,Master's Degree,Artist,Daily
+171,24,Male,6.0,Marriage,Maybe,Ph.D.,Engineer/Student,Daily
+172,22,Male,5.1,Casual Dating,Yes,Bachelor's Degree,Business Owner,Weekly
+173,22,Female,5.6,Marriage,Yes,Master's Degree,Engineer/Student,Monthly
+174,21,Male,5.8,Marriage,No,Master's Degree,Entrepreneur,Daily
+175,25,Female,5.2,Casual Dating,Yes,Bachelor's Degree,Artist,Monthly
+176,26,Female,5.5,Casual Dating,No,Master's Degree,Artist,Daily
+177,26,Female,5.3,Marriage,Yes,High School,Doctor,Weekly
+178,28,Female,5.6,Casual Dating,Maybe,High School,Social Media Influencer,Weekly
+179,32,Male,4.9,Marriage,No,High School,Entrepreneur,Daily
+180,31,Male,5.9,Casual Dating,Maybe,Bachelor's Degree,Teacher,Weekly
+181,25,Male,6.0,Casual Dating,Maybe,Ph.D.,Entrepreneur,Monthly
+182,30,Female,5.2,Marriage,Yes,High School,Engineer/Student,Daily
+183,23,Female,5.3,Casual Dating,Yes,High School,Teacher,Daily
+184,32,Female,5.4,Marriage,Yes,High School,Artist,Monthly
+185,35,Male,5.6,Casual Dating,No,Bachelor's Degree,Engineer/Student,Daily
+186,27,Female,5.2,Casual Dating,Maybe,Bachelor's Degree,Engineer/Student,Monthly
+187,30,Male,5.6,Marriage,No,Ph.D.,Entrepreneur,Daily
+188,29,Male,5.8,Casual Dating,No,Ph.D.,Engineer/Student,Monthly
+189,34,Male,5.4,Marriage,No,Master's Degree,Social Media Influencer,Daily
+190,26,Male,5.3,Casual Dating,No,Master's Degree,Engineer/Student,Monthly
+191,21,Female,6.0,Marriage,No,Ph.D.,Artist,Weekly
+192,29,Male,4.9,Casual Dating,No,Ph.D.,Engineer/Student,Monthly
+193,24,Female,5.8,Marriage,No,Bachelor's Degree,Teacher,Daily
+194,30,Female,5.2,Marriage,Maybe,Master's Degree,Entrepreneur,Weekly
+195,31,Male,5.9,Casual Dating,Maybe,High School,Engineer/Student,Weekly
+196,31,Male,5.9,Casual Dating,No,Master's Degree,Doctor,Monthly
+197,23,Female,5.0,Marriage,Yes,Bachelor's Degree,Engineer/Student,Daily
+198,31,Female,4.9,Casual Dating,No,High School,Business Owner,Monthly
+199,26,Male,4.9,Casual Dating,Yes,Master's Degree,Engineer/Student,Daily
+200,28,Female,5.9,Casual Dating,No,Bachelor's Degree,Entrepreneur,Monthly
+201,33,Male,5.6,Casual Dating,Yes,Bachelor's Degree,Business Owner,Weekly
+202,23,Female,5.4,Casual Dating,Maybe,Ph.D.,Business Owner,Daily
+203,34,Female,5.2,Marriage,Maybe,Ph.D.,Doctor,Weekly
+204,34,Female,5.9,Casual Dating,No,Master's Degree,Doctor,Daily
+205,22,Female,5.8,Marriage,No,Master's Degree,Teacher,Daily
+206,29,Male,5.5,Casual Dating,Maybe,Master's Degree,Teacher,Weekly
+207,35,Female,5.6,Marriage,Yes,High School,Artist,Daily
+208,34,Male,5.1,Casual Dating,Yes,Master's Degree,Social Media Influencer,Weekly
+209,19,Female,5.0,Marriage,Maybe,Master's Degree,Engineer/Student,Monthly
+210,24,Male,4.9,Marriage,No,Master's Degree,Doctor,Monthly
+211,28,Male,5.0,Casual Dating,No,Bachelor's Degree,Entrepreneur,Monthly
+212,25,Female,5.0,Marriage,Yes,Bachelor's Degree,Doctor,Monthly
+213,26,Female,5.9,Marriage,Yes,High School,Engineer/Student,Weekly
+214,32,Male,5.9,Casual Dating,Yes,Bachelor's Degree,Artist,Monthly
+215,20,Male,5.2,Marriage,Maybe,Ph.D.,Engineer/Student,Weekly
+216,32,Male,6.0,Marriage,Yes,High School,Entrepreneur,Weekly
+217,22,Female,5.4,Casual Dating,No,Master's Degree,Engineer/Student,Weekly
+218,29,Female,5.1,Casual Dating,Yes,Bachelor's Degree,Business Owner,Weekly
+219,23,Female,4.8,Casual Dating,No,Ph.D.,Business Owner,Monthly
+220,25,Female,5.4,Casual Dating,No,Bachelor's Degree,Entrepreneur,Daily
+221,34,Male,5.4,Casual Dating,Maybe,Bachelor's Degree,Artist,Monthly
+222,31,Female,5.5,Casual Dating,No,Ph.D.,Entrepreneur,Monthly
+223,35,Female,5.4,Marriage,No,Ph.D.,Teacher,Weekly
+224,24,Male,5.3,Casual Dating,No,Ph.D.,Engineer/Student,Daily
+225,33,Male,5.7,Marriage,Yes,Ph.D.,Engineer/Student,Weekly
+226,31,Male,5.7,Casual Dating,No,Bachelor's Degree,Artist,Weekly
+227,33,Female,5.5,Marriage,No,High School,Doctor,Monthly
+228,23,Female,6.1,Marriage,Yes,Master's Degree,Doctor,Weekly
+229,23,Male,5.5,Marriage,No,Bachelor's Degree,Entrepreneur,Weekly
+230,20,Male,5.0,Marriage,Maybe,Bachelor's Degree,Business Owner,Daily
+231,35,Male,5.7,Casual Dating,Maybe,High School,Entrepreneur,Weekly
+232,27,Female,5.4,Casual Dating,Yes,Bachelor's Degree,Business Owner,Weekly
+233,34,Male,5.8,Casual Dating,Maybe,Master's Degree,Artist,Weekly
+234,28,Male,5.8,Casual Dating,Yes,Ph.D.,Business Owner,Weekly
+235,20,Female,5.6,Marriage,No,Master's Degree,Teacher,Monthly
+236,24,Female,6.0,Marriage,Yes,Ph.D.,Engineer/Student,Weekly
+237,31,Male,5.5,Casual Dating,Maybe,Bachelor's Degree,Doctor,Weekly
+238,19,Male,5.8,Marriage,No,High School,Teacher,Monthly
+239,31,Male,6.1,Marriage,Maybe,Bachelor's Degree,Doctor,Daily
+240,27,Female,4.9,Casual Dating,Yes,Bachelor's Degree,Business Owner,Weekly
+241,21,Female,5.2,Casual Dating,Yes,High School,Artist,Daily
+242,35,Male,6.0,Marriage,No,Master's Degree,Engineer/Student,Weekly
+243,27,Female,6.1,Casual Dating,Maybe,High School,Engineer/Student,Daily
+244,31,Male,6.0,Marriage,Yes,High School,Business Owner,Monthly
+245,23,Female,5.3,Casual Dating,Yes,Bachelor's Degree,Artist,Monthly
+246,23,Female,4.8,Marriage,Maybe,High School,Doctor,Daily
+247,27,Male,5.9,Marriage,Maybe,High School,Engineer/Student,Daily
+248,23,Female,5.0,Marriage,Yes,Ph.D.,Entrepreneur,Monthly
+249,34,Female,5.2,Casual Dating,Maybe,Ph.D.,Teacher,Daily
+250,25,Female,5.7,Casual Dating,Maybe,High School,Engineer/Student,Weekly
+251,21,Male,6.1,Marriage,No,Bachelor's Degree,Business Owner,Daily
+252,34,Male,5.1,Marriage,No,Master's Degree,Artist,Daily
+253,21,Male,5.1,Casual Dating,Yes,Bachelor's Degree,Business Owner,Daily
+254,25,Male,6.1,Marriage,Maybe,Bachelor's Degree,Teacher,Daily
+255,27,Female,5.0,Marriage,Maybe,Ph.D.,Business Owner,Monthly
+256,26,Male,5.6,Casual Dating,Maybe,Ph.D.,Artist,Weekly
+257,22,Female,4.9,Marriage,No,Bachelor's Degree,Engineer/Student,Monthly
+258,29,Male,5.7,Marriage,Yes,Bachelor's Degree,Social Media Influencer,Monthly
+259,28,Male,5.3,Casual Dating,No,High School,Doctor,Weekly
+260,23,Male,5.1,Casual Dating,Yes,Master's Degree,Artist,Daily
+261,32,Female,5.2,Marriage,No,Bachelor's Degree,Engineer/Student,Weekly
+262,33,Male,6.0,Casual Dating,Yes,Bachelor's Degree,Entrepreneur,Weekly
+263,22,Male,5.3,Casual Dating,Maybe,Master's Degree,Teacher,Daily
+264,32,Female,5.4,Marriage,Yes,Bachelor's Degree,Teacher,Monthly
+265,19,Female,5.7,Casual Dating,Maybe,Ph.D.,Doctor,Weekly
+266,24,Male,5.1,Casual Dating,No,Bachelor's Degree,Doctor,Daily
+267,21,Male,5.1,Casual Dating,Yes,Ph.D.,Artist,Daily
+268,24,Male,5.1,Casual Dating,Yes,Ph.D.,Engineer/Student,Weekly
+269,34,Female,5.5,Marriage,Yes,Bachelor's Degree,Business Owner,Weekly
+270,21,Male,5.3,Casual Dating,Maybe,Master's Degree,Entrepreneur,Monthly
+271,19,Female,5.0,Casual Dating,No,High School,Teacher,Weekly
+272,33,Female,5.6,Casual Dating,Maybe,Bachelor's Degree,Teacher,Daily
+273,18,Female,5.8,Casual Dating,Yes,Master's Degree,Teacher,Weekly
+274,29,Male,5.4,Casual Dating,No,Bachelor's Degree,Doctor,Weekly
+275,26,Male,5.1,Casual Dating,No,Bachelor's Degree,Entrepreneur,Weekly
+276,24,Female,5.4,Casual Dating,Yes,Master's Degree,Social Media Influencer,Monthly
+277,22,Male,5.5,Marriage,Yes,Ph.D.,Engineer/Student,Daily
+278,22,Male,5.1,Casual Dating,Yes,Ph.D.,Teacher,Daily
+279,24,Male,5.2,Marriage,Yes,Master's Degree,Business Owner,Weekly
+280,29,Male,5.0,Casual Dating,Maybe,Bachelor's Degree,Engineer/Student,Monthly
+281,26,Female,5.9,Casual Dating,Maybe,Bachelor's Degree,Social Media Influencer,Weekly
+282,20,Male,5.1,Casual Dating,Yes,Bachelor's Degree,Engineer/Student,Weekly
+283,29,Male,4.8,Marriage,Maybe,High School,Artist,Weekly
+284,30,Male,6.0,Marriage,Maybe,Bachelor's Degree,Business Owner,Weekly
+285,21,Male,5.8,Casual Dating,Maybe,High School,Entrepreneur,Monthly
+286,24,Female,4.9,Marriage,Maybe,Ph.D.,Social Media Influencer,Daily
+287,34,Female,5.7,Casual Dating,Yes,Ph.D.,Social Media Influencer,Daily
+288,35,Male,6.0,Casual Dating,Yes,Ph.D.,Entrepreneur,Daily
+289,31,Male,5.7,Casual Dating,Maybe,Master's Degree,Social Media Influencer,Weekly
+290,29,Female,6.1,Marriage,No,Ph.D.,Teacher,Weekly
+291,22,Female,5.2,Marriage,Maybe,Ph.D.,Teacher,Weekly
+292,19,Male,4.8,Marriage,Yes,Master's Degree,Social Media Influencer,Daily
+293,21,Female,5.3,Casual Dating,Maybe,High School,Business Owner,Daily
+294,33,Female,5.0,Marriage,No,Bachelor's Degree,Social Media Influencer,Daily
+295,34,Female,4.9,Marriage,No,High School,Engineer/Student,Weekly
+296,34,Male,5.9,Marriage,Maybe,Bachelor's Degree,Engineer/Student,Daily
+297,28,Male,5.4,Casual Dating,No,Ph.D.,Social Media Influencer,Daily
+298,27,Male,5.1,Casual Dating,Maybe,Ph.D.,Social Media Influencer,Weekly
+299,20,Female,5.8,Marriage,Maybe,Master's Degree,Doctor,Daily
+300,29,Female,5.2,Casual Dating,Yes,High School,Engineer/Student,Daily
+301,34,Male,5.7,Casual Dating,No,High School,Doctor,Daily
+302,30,Female,5.8,Casual Dating,Yes,High School,Doctor,Daily
+303,28,Male,5.5,Casual Dating,Yes,High School,Doctor,Weekly
+304,23,Male,5.2,Casual Dating,No,Bachelor's Degree,Engineer/Student,Weekly
+305,24,Male,5.4,Marriage,No,Master's Degree,Engineer/Student,Daily
+306,28,Female,5.7,Marriage,Yes,Master's Degree,Artist,Daily
+307,21,Male,5.6,Marriage,No,Master's Degree,Artist,Daily
+308,26,Male,5.9,Casual Dating,No,Master's Degree,Teacher,Monthly
+309,26,Female,5.9,Marriage,Maybe,High School,Business Owner,Weekly
+310,35,Female,5.1,Marriage,Maybe,Bachelor's Degree,Engineer/Student,Weekly
+311,24,Female,5.6,Casual Dating,Yes,Master's Degree,Engineer/Student,Daily
+312,32,Male,6.1,Casual Dating,Yes,Bachelor's Degree,Entrepreneur,Monthly
+313,20,Male,5.4,Casual Dating,No,Master's Degree,Doctor,Monthly
+314,33,Female,5.4,Casual Dating,Yes,High School,Business Owner,Weekly
+315,21,Male,5.7,Marriage,No,Master's Degree,Doctor,Weekly
+316,32,Female,5.6,Casual Dating,Yes,Master's Degree,Business Owner,Monthly
+317,27,Female,5.8,Marriage,Maybe,Master's Degree,Business Owner,Monthly
+318,26,Male,4.9,Casual Dating,Yes,Bachelor's Degree,Doctor,Weekly
+319,24,Female,5.1,Marriage,Maybe,High School,Teacher,Monthly
+320,19,Female,5.0,Casual Dating,Yes,Ph.D.,Entrepreneur,Weekly
+321,20,Male,5.6,Casual Dating,Yes,Master's Degree,Teacher,Monthly
+322,20,Female,6.0,Casual Dating,Maybe,Master's Degree,Engineer/Student,Monthly
+323,30,Male,5.0,Marriage,No,Bachelor's Degree,Engineer/Student,Weekly
+324,25,Female,5.0,Marriage,Yes,High School,Teacher,Daily
+325,31,Female,5.4,Casual Dating,No,Ph.D.,Business Owner,Weekly
+326,21,Male,5.5,Marriage,No,Bachelor's Degree,Social Media Influencer,Monthly
+327,32,Female,4.9,Casual Dating,No,Bachelor's Degree,Engineer/Student,Monthly
+328,18,Female,6.1,Casual Dating,Yes,Ph.D.,Artist,Daily
+329,31,Male,5.3,Marriage,Maybe,Bachelor's Degree,Teacher,Monthly
+330,19,Female,5.6,Casual Dating,Yes,Ph.D.,Artist,Monthly
+331,26,Male,5.3,Casual Dating,Yes,Master's Degree,Artist,Daily
+332,28,Female,5.1,Marriage,No,High School,Entrepreneur,Weekly
+333,32,Female,5.9,Marriage,Maybe,Bachelor's Degree,Business Owner,Daily
+334,33,Male,5.1,Casual Dating,No,High School,Social Media Influencer,Weekly
+335,33,Male,5.3,Marriage,Yes,Ph.D.,Engineer/Student,Weekly
+336,34,Female,5.2,Casual Dating,Yes,Ph.D.,Entrepreneur,Daily
+337,34,Female,5.3,Marriage,Yes,Ph.D.,Entrepreneur,Daily
+338,19,Male,5.3,Casual Dating,No,Bachelor's Degree,Doctor,Monthly
+339,18,Male,5.8,Casual Dating,Maybe,Ph.D.,Engineer/Student,Daily
+340,28,Female,4.9,Casual Dating,No,Master's Degree,Teacher,Daily
+341,31,Female,4.9,Marriage,Maybe,Ph.D.,Entrepreneur,Weekly
+342,25,Male,5.9,Marriage,No,High School,Engineer/Student,Monthly
+343,19,Male,6.0,Casual Dating,No,Bachelor's Degree,Business Owner,Daily
+344,18,Female,5.8,Marriage,Yes,Ph.D.,Engineer/Student,Weekly
+345,30,Male,5.0,Casual Dating,Yes,High School,Entrepreneur,Daily
+346,25,Male,5.1,Casual Dating,Yes,High School,Engineer/Student,Daily
+347,26,Female,4.9,Marriage,No,Ph.D.,Teacher,Daily
+348,34,Male,5.2,Casual Dating,No,Master's Degree,Engineer/Student,Monthly
+349,29,Female,5.5,Casual Dating,Maybe,High School,Teacher,Daily
+350,23,Male,5.7,Casual Dating,Maybe,Ph.D.,Engineer/Student,Monthly
+351,27,Female,4.8,Marriage,Maybe,Master's Degree,Engineer/Student,Monthly
+352,33,Male,5.1,Casual Dating,Yes,High School,Business Owner,Weekly
+353,19,Male,5.0,Marriage,Maybe,Bachelor's Degree,Engineer/Student,Daily
+354,35,Male,4.9,Marriage,Maybe,High School,Teacher,Monthly
+355,33,Female,5.8,Marriage,Yes,Ph.D.,Teacher,Monthly
+356,18,Male,4.8,Marriage,Yes,Master's Degree,Business Owner,Daily
+357,19,Female,5.3,Casual Dating,No,Bachelor's Degree,Entrepreneur,Daily
+358,25,Male,5.6,Casual Dating,Yes,High School,Business Owner,Weekly
+359,23,Female,5.2,Marriage,Maybe,Bachelor's Degree,Engineer/Student,Weekly
+360,25,Female,4.9,Marriage,No,High School,Teacher,Monthly
+361,32,Female,5.6,Casual Dating,Yes,Bachelor's Degree,Social Media Influencer,Weekly
+362,26,Female,6.1,Marriage,No,High School,Artist,Daily
+363,31,Female,5.3,Casual Dating,Yes,High School,Social Media Influencer,Daily
+364,35,Female,6.0,Marriage,No,Ph.D.,Entrepreneur,Monthly
+365,35,Male,4.8,Marriage,Maybe,Bachelor's Degree,Teacher,Weekly
+366,29,Female,5.0,Marriage,No,Master's Degree,Business Owner,Monthly
+367,32,Female,5.9,Casual Dating,No,Bachelor's Degree,Social Media Influencer,Daily
+368,26,Female,5.2,Casual Dating,No,Ph.D.,Teacher,Monthly
+369,34,Female,5.6,Marriage,Maybe,Bachelor's Degree,Social Media Influencer,Daily
+370,18,Male,6.0,Marriage,Yes,Bachelor's Degree,Engineer/Student,Monthly
+371,35,Female,5.2,Casual Dating,Maybe,Master's Degree,Artist,Daily
+372,33,Male,5.8,Marriage,Yes,Master's Degree,Entrepreneur,Monthly
+373,21,Male,5.7,Marriage,Yes,Ph.D.,Teacher,Monthly
+374,23,Female,5.7,Marriage,Maybe,Bachelor's Degree,Engineer/Student,Monthly
+375,20,Female,5.0,Casual Dating,Yes,Ph.D.,Artist,Monthly
+376,25,Male,5.9,Casual Dating,Yes,High School,Business Owner,Monthly
+377,26,Male,5.9,Casual Dating,Maybe,Master's Degree,Artist,Weekly
+378,32,Female,5.4,Marriage,Maybe,Master's Degree,Engineer/Student,Daily
+379,23,Male,5.3,Casual Dating,Maybe,Ph.D.,Social Media Influencer,Weekly
+380,22,Male,5.2,Marriage,No,High School,Entrepreneur,Daily
+381,34,Male,5.5,Marriage,No,Bachelor's Degree,Business Owner,Weekly
+382,31,Female,5.8,Marriage,Maybe,Master's Degree,Social Media Influencer,Monthly
+383,28,Male,6.0,Casual Dating,Yes,High School,Business Owner,Monthly
+384,34,Female,5.8,Casual Dating,Maybe,Ph.D.,Artist,Daily
+385,32,Female,5.4,Casual Dating,Yes,Ph.D.,Engineer/Student,Weekly
+386,30,Female,5.9,Marriage,No,High School,Artist,Monthly
+387,23,Female,5.9,Marriage,Yes,High School,Engineer/Student,Weekly
+388,18,Male,4.9,Casual Dating,No,Master's Degree,Engineer/Student,Monthly
+389,33,Male,6.0,Casual Dating,Maybe,Master's Degree,Business Owner,Weekly
+390,23,Male,4.9,Marriage,No,Master's Degree,Engineer/Student,Weekly
+391,27,Female,5.7,Casual Dating,No,Bachelor's Degree,Social Media Influencer,Daily
+392,33,Female,5.2,Marriage,Yes,Master's Degree,Teacher,Monthly
+393,34,Male,5.5,Marriage,Yes,Bachelor's Degree,Social Media Influencer,Daily
+394,19,Male,5.6,Casual Dating,No,High School,Artist,Weekly
+395,31,Male,5.1,Marriage,No,High School,Doctor,Monthly
+396,24,Male,5.5,Marriage,Yes,Ph.D.,Social Media Influencer,Daily
+397,32,Female,5.4,Casual Dating,Maybe,Master's Degree,Engineer/Student,Weekly
+398,18,Male,5.2,Casual Dating,Yes,Master's Degree,Social Media Influencer,Daily
+399,28,Male,5.3,Casual Dating,Maybe,Master's Degree,Doctor,Weekly
+400,24,Female,6.0,Casual Dating,Maybe,High School,Social Media Influencer,Weekly
+401,29,Female,5.0,Casual Dating,Yes,High School,Artist,Daily
+402,30,Female,6.0,Marriage,Maybe,Bachelor's Degree,Social Media Influencer,Weekly
+403,34,Male,5.0,Casual Dating,Yes,Master's Degree,Engineer/Student,Weekly
+404,30,Male,5.1,Marriage,No,Bachelor's Degree,Engineer/Student,Daily
+405,33,Female,6.1,Marriage,No,Master's Degree,Social Media Influencer,Monthly
+406,29,Male,5.4,Casual Dating,Maybe,High School,Business Owner,Daily
+407,21,Male,5.1,Casual Dating,Yes,Bachelor's Degree,Entrepreneur,Monthly
+408,33,Male,5.2,Casual Dating,Yes,High School,Doctor,Daily
+409,27,Female,5.1,Casual Dating,Yes,Bachelor's Degree,Social Media Influencer,Weekly
+410,28,Male,5.2,Marriage,Maybe,Bachelor's Degree,Business Owner,Weekly
+411,33,Female,5.7,Casual Dating,Yes,High School,Social Media Influencer,Daily
+412,35,Male,6.0,Casual Dating,No,Ph.D.,Social Media Influencer,Daily
+413,20,Female,4.9,Casual Dating,Maybe,Bachelor's Degree,Social Media Influencer,Weekly
+414,29,Male,5.0,Marriage,No,Bachelor's Degree,Teacher,Daily
+415,18,Male,4.9,Casual Dating,No,Bachelor's Degree,Doctor,Weekly
+416,25,Male,5.8,Casual Dating,Maybe,Master's Degree,Business Owner,Daily
+417,18,Male,5.5,Casual Dating,Yes,High School,Social Media Influencer,Monthly
+418,20,Female,6.0,Casual Dating,Maybe,High School,Engineer/Student,Weekly
+419,22,Female,5.4,Marriage,No,Bachelor's Degree,Entrepreneur,Weekly
+420,31,Male,5.6,Marriage,No,Master's Degree,Artist,Monthly
+421,18,Female,5.7,Marriage,Maybe,Bachelor's Degree,Doctor,Monthly
+422,18,Male,4.9,Marriage,Maybe,Ph.D.,Business Owner,Weekly
+423,30,Male,5.9,Marriage,Maybe,Bachelor's Degree,Business Owner,Daily
+424,30,Male,4.9,Marriage,No,High School,Engineer/Student,Monthly
+425,32,Male,5.0,Marriage,No,Bachelor's Degree,Social Media Influencer,Weekly
+426,23,Male,5.7,Casual Dating,No,Master's Degree,Doctor,Weekly
+427,27,Female,6.0,Casual Dating,No,High School,Social Media Influencer,Weekly
+428,32,Female,5.8,Marriage,Yes,High School,Engineer/Student,Daily
+429,21,Male,5.8,Marriage,No,Bachelor's Degree,Social Media Influencer,Weekly
+430,25,Male,4.9,Marriage,Yes,High School,Artist,Daily
+431,27,Male,5.6,Casual Dating,Yes,Bachelor's Degree,Teacher,Weekly
+432,24,Female,6.0,Marriage,Yes,High School,Artist,Monthly
+433,23,Male,5.2,Marriage,No,Bachelor's Degree,Artist,Monthly
+434,20,Female,5.3,Marriage,No,Bachelor's Degree,Doctor,Weekly
+435,25,Male,6.1,Marriage,No,High School,Entrepreneur,Daily
+436,35,Female,5.4,Marriage,No,High School,Artist,Daily
+437,30,Female,5.5,Casual Dating,No,Bachelor's Degree,Doctor,Daily
+438,27,Male,5.9,Casual Dating,Yes,Ph.D.,Artist,Monthly
+439,32,Male,5.6,Casual Dating,No,High School,Engineer/Student,Monthly
+440,31,Male,6.0,Marriage,Yes,Bachelor's Degree,Business Owner,Weekly
+441,35,Male,5.8,Marriage,Yes,High School,Business Owner,Daily
+442,27,Female,5.8,Marriage,No,Ph.D.,Teacher,Daily
+443,24,Female,5.6,Marriage,Maybe,Master's Degree,Artist,Monthly
+444,35,Male,5.8,Marriage,No,High School,Social Media Influencer,Monthly
+445,24,Female,5.9,Marriage,No,Master's Degree,Business Owner,Daily
+446,27,Male,6.0,Marriage,Yes,High School,Artist,Monthly
+447,35,Female,5.0,Casual Dating,Yes,Bachelor's Degree,Social Media Influencer,Daily
+448,33,Male,5.1,Casual Dating,No,Bachelor's Degree,Social Media Influencer,Daily
+449,33,Female,5.7,Casual Dating,Maybe,Bachelor's Degree,Entrepreneur,Daily
+450,23,Male,5.9,Marriage,Yes,Ph.D.,Engineer/Student,Daily
+451,19,Female,4.9,Casual Dating,Maybe,Ph.D.,Artist,Weekly
+452,18,Female,5.1,Casual Dating,Maybe,Master's Degree,Entrepreneur,Weekly
+453,18,Female,5.0,Casual Dating,No,Bachelor's Degree,Engineer/Student,Monthly
+454,29,Male,4.9,Marriage,No,Bachelor's Degree,Business Owner,Daily
+455,28,Female,5.4,Casual Dating,Maybe,High School,Artist,Monthly
+456,29,Male,5.6,Marriage,Maybe,Ph.D.,Engineer/Student,Monthly
+457,23,Female,5.9,Marriage,Yes,Ph.D.,Doctor,Daily
+458,20,Female,5.8,Marriage,Yes,High School,Engineer/Student,Daily
+459,23,Female,5.4,Marriage,Maybe,Bachelor's Degree,Entrepreneur,Weekly
+460,19,Male,5.7,Marriage,No,Master's Degree,Engineer/Student,Monthly
+461,24,Male,5.6,Marriage,No,Ph.D.,Artist,Daily
+462,34,Male,6.0,Marriage,Yes,Ph.D.,Entrepreneur,Daily
+463,33,Female,5.2,Marriage,Maybe,High School,Entrepreneur,Monthly
+464,29,Female,5.2,Casual Dating,Maybe,High School,Engineer/Student,Monthly
+465,19,Male,5.9,Casual Dating,Yes,High School,Artist,Weekly
+466,21,Male,6.0,Casual Dating,Maybe,Bachelor's Degree,Artist,Weekly
+467,35,Female,4.9,Casual Dating,Maybe,Master's Degree,Doctor,Monthly
+468,26,Female,5.6,Casual Dating,No,Ph.D.,Teacher,Monthly
+469,34,Male,5.7,Marriage,Yes,Ph.D.,Engineer/Student,Monthly
+470,35,Female,5.3,Casual Dating,Maybe,High School,Engineer/Student,Weekly
+471,21,Male,5.5,Marriage,Yes,Master's Degree,Business Owner,Monthly
+472,33,Male,5.2,Casual Dating,No,Master's Degree,Business Owner,Daily
+473,29,Female,4.9,Casual Dating,Yes,Master's Degree,Engineer/Student,Weekly
+474,20,Female,4.9,Marriage,No,High School,Engineer/Student,Weekly
+475,29,Female,5.8,Marriage,Maybe,Bachelor's Degree,Artist,Weekly
+476,28,Female,5.3,Marriage,Maybe,High School,Doctor,Weekly
+477,18,Female,5.8,Casual Dating,Maybe,Ph.D.,Doctor,Weekly
+478,29,Female,5.4,Marriage,Yes,Master's Degree,Engineer/Student,Weekly
+479,19,Female,5.2,Casual Dating,No,Master's Degree,Business Owner,Monthly
+480,35,Female,5.1,Marriage,No,Bachelor's Degree,Social Media Influencer,Monthly
+481,29,Male,5.4,Casual Dating,Maybe,Master's Degree,Social Media Influencer,Daily
+482,20,Female,5.0,Casual Dating,Yes,High School,Doctor,Monthly
+483,28,Female,6.0,Casual Dating,No,Master's Degree,Teacher,Daily
+484,28,Male,5.3,Marriage,Maybe,Bachelor's Degree,Entrepreneur,Daily
+485,25,Male,4.9,Marriage,No,Ph.D.,Entrepreneur,Monthly
+486,32,Female,5.9,Casual Dating,No,Ph.D.,Business Owner,Monthly
+487,24,Female,4.9,Casual Dating,Yes,Bachelor's Degree,Artist,Weekly
+488,35,Male,5.7,Casual Dating,Yes,High School,Social Media Influencer,Weekly
+489,33,Male,5.6,Casual Dating,Maybe,Bachelor's Degree,Doctor,Weekly
+490,30,Female,5.2,Casual Dating,Yes,Bachelor's Degree,Teacher,Weekly
+491,32,Female,5.7,Casual Dating,Maybe,Master's Degree,Social Media Influencer,Daily
+492,33,Female,5.9,Marriage,No,High School,Engineer/Student,Monthly
+493,34,Male,5.4,Marriage,Maybe,Ph.D.,Engineer/Student,Daily
+494,18,Male,5.8,Marriage,Maybe,Master's Degree,Business Owner,Daily
+495,34,Male,5.1,Marriage,Maybe,Bachelor's Degree,Social Media Influencer,Daily
+496,27,Male,5.3,Marriage,No,Bachelor's Degree,Entrepreneur,Daily
+497,30,Female,5.1,Marriage,No,High School,Social Media Influencer,Daily
+498,33,Male,4.9,Marriage,No,Bachelor's Degree,Engineer/Student,Daily
+499,32,Male,5.6,Marriage,Maybe,High School,Business Owner,Monthly
+500,24,Male,5.6,Casual Dating,Maybe,Ph.D.,Doctor,Monthly

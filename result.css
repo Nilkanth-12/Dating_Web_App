@@ -1,0 +1,258 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  /* Body Styling */
+  body {
+    background: linear-gradient(120deg, #ff9a9e, #fad0c4);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  /* Header */
+  header {
+    background-color: #ff6f91;
+    color: #fff;
+    padding: 20px 10px;
+    text-align: center;
+    border-radius: 0 0 20px 20px; /* Smooth rounded edges */
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2); /* Smooth shadow */
+  }
+  
+  header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  
+  header p {
+    font-size: 1rem;
+    opacity: 0.9;
+  }
+  
+  /* Main Content */
+  main {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .form-container {
+    background: #fff;
+    padding: 20px 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15); /* Softer shadow */
+    width: 100%;
+    max-width: 500px;
+  }
+  
+  .form-container h2 {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+    color: #333;
+    text-align: center;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* Form Groups */
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"],
+  input[type="number"],
+  select {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    outline: none;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  input[type="text"]:focus,
+  input[type="number"]:focus,
+  select:focus {
+    border-color: #ff6f91;
+    box-shadow: 0px 0px 8px rgba(255, 111, 145, 0.5); /* Smooth glow */
+  }
+  
+  /* Fieldsets */
+  fieldset {
+    border: none;
+    margin-bottom: 20px;
+  }
+  
+  legend {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  fieldset label {
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  input[type="radio"] {
+    margin-right: 10px;
+  }
+  
+  /* Submit Button */
+  button[type="submit"] {
+    background: #ff6f91;
+    color: #fff;
+    padding: 10px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 20px; /* Smooth rounded button */
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.2s ease;
+    box-shadow: 0 5px 10px rgba(255, 111, 145, 0.3); /* Smooth button shadow */
+  }
+  
+  button[type="submit"]:hover {
+    background: #fa709a;
+    transform: translateY(-2px); /* Subtle lift effect */
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 15px 10px;
+    margin-top: auto;
+    border-radius: 20px 20px 0 0; /* Smooth rounded edges */
+    box-shadow: 0px -5px 15px rgba(0, 0, 0, 0.2); /* Smooth shadow */
+  }
+  
+  footer p {
+    font-size: 0.9rem;
+    margin: 5px 0;
+    opacity: 0.8;
+  }
+  
+  /* Results Section */
+  #results-section {
+    margin-top: 30px;
+    padding: 20px;
+    background: #fff;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); /* Softer shadow */
+    max-width: 1000px;
+    margin: 30px auto;
+  }
+  
+  #results h2 {
+    font-size: 2rem;
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  /* Results Container */
+  #results {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  /* Result Card */
+  .result-card {
+    background: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Softer shadow */
+    padding: 20px;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .result-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); /* Enhanced hover shadow */
+  }
+  
+  /* Profile Image */
+  .result-card img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 15px;
+  }
+  
+  /* Name */
+  .result-card h3 {
+    font-size: 1.6rem;
+    margin-bottom: 10px;
+    color: #ff6f91; /* Accent color for name */
+  }
+  
+  /* Profile Info */
+  .result-card p {
+    font-size: 1.1rem;
+    color: #555;
+    margin-bottom: 15px;
+  }
+  
+  /* Details Button */
+  .result-card .details-btn {
+    background: #ff6f91;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1.1rem;
+    border: none;
+    border-radius: 25px; /* Smooth rounded button */
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.2s ease;
+    box-shadow: 0 5px 10px rgba(255, 111, 145, 0.3); /* Button shadow */
+  }
+  
+  .result-card .details-btn:hover {
+    background: #fa709a;
+    transform: translateY(-2px); /* Subtle lift effect */
+  }
+  
+  /* Mobile Responsiveness */
+  @media (max-width: 768px) {
+    #results h2 {
+      font-size: 1.5rem;
+    }
+  
+    .result-card {
+      padding: 15px;
+    }
+  
+    .result-card h3 {
+      font-size: 1.4rem;
+    }
+  
+    .result-card p {
+      font-size: 1rem;
+    }
+  
+    .result-card .details-btn {
+      font-size: 1rem;
+      padding: 8px 16px;
+    }
+  }
+  
